@@ -1,0 +1,61 @@
+﻿@model IEnumerable<WebTraiCay.Models.Morder>
+
+                    <table class="table-responsive table w-100">
+                        <!-- Head Row -->
+                        <thead>
+                            <tr>
+                                <th class="pro-thumbnail">Tên khách hàng</th>
+                                <th class="pro-title">Thời gian order</th>
+                                <th class="pro-price">Phương thức thanh toán</th>
+                                <th class="pro-price">Tình trạng thanh toán</th>
+                                <th class="pro-quantity">Trạng thái</th>
+                                <th class="pro-subtotal">Chi tiết</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <spam class="text-danger"> @ViewBag.statusCart</spam>
+                            <!-- Product Row -->
+
+                            @{ float sum = 0;
+                            }
+                            @foreach (var item in Model)
+                            {
+
+                        <tr>
+                            <td class="pro-thumbnail">
+                                <span>@item.deliveryname</span>
+
+                            </td>
+                            <td class="pro-title"><a href="#">@item.created_ate.ToString("dd-MM-yyyy")</a></td>
+                            <td class="pro-price">
+                                <span>@item.deliveryPaymentMethod </span>
+                            </td>
+                            <td class="pro-price">
+                                @if (item.StatusPayment == 1)
+                                {
+                                    <span>Đã thanh toán</span>
+                                }
+                                else
+                                {
+                                    <span>Chưa thanh toán</span>
+                                }
+                            </td>
+                            <td class="pro-quantity">
+                                @if (item.status == 2)
+                                {
+                                    <span class="text-danger">Chờ xác nhận</span>
+                                }
+                                else if (item.status == 1)
+                                {
+                                    <span class="text-danger">Đã xác nhận</span>
+                                }
+                                else if (item.status == 3)
+                                {
+                                    <span class="text-danger">Đã hủy</span>
+                                }
+                            </td>
+                            <td class="pro-subtotal"> <a href="~/TrackOrder/DetailOrder/@item.ID">Xem chi tiết</a></td>
+                        </tr>
+                            }
+                        </tbody>
+                    </table>

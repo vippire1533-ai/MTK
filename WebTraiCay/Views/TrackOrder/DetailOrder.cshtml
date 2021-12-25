@@ -1,0 +1,61 @@
+﻿@model WebTraiCay.Models.Morder
+@{
+    ViewBag.Title = "Thông tin chi tiết đơn hàng";
+    Layout = "~/Views/Shared/_layoutSite.cshtml";
+}
+@Html.Action("Mainmenu", "module")
+<section class="breadcrumb-section">
+    <h2 class="sr-only">Site Breadcrumb</h2>
+    <div class="container bg-white">
+        <div class="breadcrumb-contents">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="~/">Home</a></li>
+                    <li class="breadcrumb-item active">Thông tin đơn hàng</li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+</section>
+
+<!-- order complete Page Start -->
+<section class="order-complete inner-page-sec-padding-bottom">
+    <div class="container bg-white">
+        <div class="row">
+            <div class="col-12">
+                <div class="order-complete-message text-center">
+                    <h1>Chào bạn!</h1>
+                    <p>Thông tin chi tiết đơn hàng của bạn.</p>
+                </div>
+                <ul class="order-details-list">
+                    <li class="p-2">Mã đơn hàng: <strong>@Model.ID</strong></li>
+                    <li class="p-2">Tên khách hàng: <strong>@Model.deliveryname</strong></li>
+                    <li class="p-2">Số thiện thoại: <strong>@Model.deliveryphone</strong></li>
+                    <li class="p-2">Email: <strong>@Model.deliveryemail</strong></li>
+                    <li class="p-2">địa chỉ nhận hàng: <strong>@Model.deliveryaddress</strong></li>
+                    <li class="p-2">Ngày đặt hàng: <strong>@Model.created_ate</strong></li>
+                    <li class="p-2">Phương thức thanh toán: <strong>Ship Code</strong></li>
+                    @if (Model.StatusPayment == 1)
+                    {
+                        <li class="p-2">Trạng thái thanh toán: <strong>Đã thanh toán</strong></li>
+                    }
+                    else
+                    {
+                        <li class="p-2">Trạng thái thanh toán: <strong>Chưa thanh toán vui lòng thanh toán lại.</strong></li>
+                    }
+                    <li class="p-2">Phương thức thanh toán: <strong>@Model.deliveryPaymentMethod.</strong></li>
+                </ul>
+                <p>Thanh toán bằng tiền mặt khi giao hàng.</p>
+                <h3 class="order-table-title">Chi tiết đơn hàng</h3>
+                <div class="table-responsive">
+                    @Html.Action("productDetailCheckOut", "TrackOrder", new { orderId = Model.ID })
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<style>
+    li {
+        list-style: none;
+    }
+</style>

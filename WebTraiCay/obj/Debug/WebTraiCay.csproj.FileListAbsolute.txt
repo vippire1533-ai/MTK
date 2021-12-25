@@ -1,0 +1,161 @@
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\ShopCayCanh.dll.config
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\ShopCayCanh.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\ShopCayCanh.pdb
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\csc.exe
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\csc.exe.config
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\csc.rsp
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\csi.exe
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\csi.exe.config
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\csi.rsp
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\System.AppContext.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\System.Console.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\System.IO.Compression.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\System.IO.Pipes.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\System.Security.Claims.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\System.ValueTuple.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\vbc.exe
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\vbc.exe.config
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\vbc.rsp
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\VBCSCompiler.exe
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\EntityFramework.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\EntityFramework.SqlServer.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\Newtonsoft.Json.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\PagedList.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\PagedList.Mvc.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\PayPal.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\System.Web.Helpers.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\System.Web.Mvc.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\System.Web.Razor.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\System.Web.Webpages.Deployment.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\System.Web.Webpages.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\System.Web.Webpages.Razor.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\EntityFramework.xml
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\EntityFramework.SqlServer.xml
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\Newtonsoft.Json.xml
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\PagedList.xml
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\PagedList.Mvc.xml
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\PayPal.xml
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\System.Web.Razor.xml
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\System.Web.Webpages.xml
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\System.Web.Webpages.Deployment.xml
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\System.Web.Webpages.Razor.xml
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\System.Web.Helpers.xml
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\System.Web.Mvc.xml
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\obj\Debug\WebTraiCay.csproj.AssemblyReference.cache
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\obj\Debug\WebTraiCay.csproj.CoreCompileInputs.cache
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\obj\Debug\ShopCayCanh.dll
+C:\Users\vanhu\OneDrive\Máy tính\NongSanSach\WebTraiCay\obj\Debug\ShopCayCanh.pdb
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\ShopCayCanh.dll.config
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\ShopCayCanh.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\ShopCayCanh.pdb
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\csc.exe
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\csc.exe.config
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\csc.rsp
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\csi.exe
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\csi.exe.config
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\csi.rsp
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\System.AppContext.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\System.Console.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\System.IO.Compression.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\System.IO.Pipes.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\System.Security.Claims.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\System.ValueTuple.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\System.Xml.XPath.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\vbc.exe
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\vbc.exe.config
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\vbc.rsp
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\VBCSCompiler.exe
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\EntityFramework.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\EntityFramework.SqlServer.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\Newtonsoft.Json.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\PagedList.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\PagedList.Mvc.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\PayPal.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\System.Web.Helpers.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\System.Web.Mvc.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\System.Web.Razor.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\System.Web.Webpages.Deployment.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\System.Web.Webpages.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\System.Web.Webpages.Razor.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\EntityFramework.xml
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\EntityFramework.SqlServer.xml
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\Newtonsoft.Json.xml
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\PagedList.xml
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\PagedList.Mvc.xml
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\PayPal.xml
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\System.Web.Razor.xml
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\System.Web.Webpages.xml
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\System.Web.Webpages.Deployment.xml
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\System.Web.Webpages.Razor.xml
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\System.Web.Helpers.xml
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\System.Web.Mvc.xml
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\obj\Debug\WebTraiCay.csprojAssemblyReference.cache
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\obj\Debug\WebTraiCay.csproj.CoreCompileInputs.cache
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\obj\Debug\WebTraiCay.csproj.CopyComplete
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\obj\Debug\ShopCayCanh.dll
+C:\Users\trungthanh\Downloads\Compressed\WebTraiCay\WebTraiCay\obj\Debug\ShopCayCanh.pdb
